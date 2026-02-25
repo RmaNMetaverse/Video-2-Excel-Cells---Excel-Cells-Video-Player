@@ -1,5 +1,7 @@
 # Excel Video Projector (Video → .bin for Excel)
 
+<img width="1024" height="572" alt="Image" src="https://github.com/user-attachments/assets/3a82ceb9-2e8e-42a6-b5df-b0025b15c2c9" />
+
 https://github.com/user-attachments/assets/487292d6-bb29-4877-801e-8b208686890f
 
 
