@@ -1,5 +1,9 @@
 # Excel Video Projector (Video → .bin for Excel)
 
+https://github.com/user-attachments/assets/487292d6-bb29-4877-801e-8b208686890f
+
+
+
 A small Python tool that converts a video (.mp4) into a compact binary (.bin) frame stream which an Excel VBA macro can rapidly paint into worksheet cells to "play" the video inside Excel.
 
 ## How it works
